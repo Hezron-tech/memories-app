@@ -1,5 +1,5 @@
 import { Container, AppBar, Typography, Grow, Grid } from "@material-ui/core";
-// import memories from "./images/memories.jpeg";
+ import memories from "./images/memories.jpeg";
 import Form from "./components/Form/Form";
 import Posts from "./components/Posts/posts";
 
